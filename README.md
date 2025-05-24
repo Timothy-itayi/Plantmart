@@ -82,29 +82,6 @@ flutter pub get
 flutter run
 ```
 
-## 📦 Dependencies
-- `flutter_staggered_grid_view`: For the masonry grid layout
-- `google_fonts`: For custom typography
-- `provider`: For state management
-
-## 🎯 Future Enhancements
-- User authentication
-- Wishlist functionality
-- Plant care guides
-- Order tracking
-- Reviews and ratings
-- Search functionality
-- Filter by price range
-- Plant care reminders
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 
-## 👥 Authors
-- Timothy Itayi - Initial work
-
-## 🙏 Acknowledgments
-- Flutter team for the amazing framework
-- Pexels for the beautiful plant images
 
