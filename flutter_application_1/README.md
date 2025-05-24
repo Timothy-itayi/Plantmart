@@ -45,21 +45,21 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Main Screens
 | Home Screen | Category View | Plant Details |
 |-------------|---------------|---------------|
-| <img src="screenshots/home_screen.png" width="200"/> | <img src="screenshots/category_view.png" width="200"/> | <img src="screenshots/plant_details.png" width="200"/> |
+| <img src="flutter_application_1/lib/screenshots/Plant-Store.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/category-page.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/plant-detail.png" width="200"/> |
 
 ### Shopping Experience
 | Shopping Cart | Checkout Process | Order Confirmation |
 |---------------|------------------|-------------------|
-| <img src="screenshots/cart_screen.png" width="200"/> | <img src="screenshots/checkout_screen.png" width="200"/> | <img src="screenshots/order_confirmation.png" width="200"/> |
+| <img src="flutter_application_1/lib/screenshots/cart.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/checkout.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/order-confirmation.png" width="200"/> |
 
 ### Features Showcase
 | Category Filtering | Plant Cards | Animations |
 |-------------------|-------------|------------|
-| <img src="screenshots/category_filtering.png" width="200"/> | <img src="screenshots/plant_cards.png" width="200"/> | <img src="screenshots/animations.png" width="200"/> |
+| <img src="flutter_application_1/lib/screenshots/category-filtering.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/plant-cards.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/animations.png" width="200"/> |
 
 > Note: To add screenshots to your README:
 > 1. Take screenshots of your app using the device simulator or a physical device
-> 2. Save them in a `screenshots` folder in your project root
+> 2. Save them in the `flutter_application_1/lib/screenshots` folder
 > 3. Name them according to the placeholders above
 > 4. Update the image paths in this README to match your screenshot names
 

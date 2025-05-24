@@ -45,15 +45,12 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Main Screens
 | Home Screen | Category View | Plant Details |
 |-------------|---------------|---------------|
-| ![Home Screen](lib/screenshots/Plant-Store.png) | ![Category View](lib/screenshots/category-page.png) | ![Plant Details](lib/screenshots/plant-detail.png) |
+| <img src="flutter_application_1/lib/screenshots/Plant-Store.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/category-page.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/plant-detail.png" width="200"/> |
 
 ### Shopping Experience
-| Shopping Cart |
-|---------------|
-### Features Showcase
-| Category Filtering | Plant Cards | Animations |
-|-------------------|-------------|------------|
-| <img src="screenshots/category_filtering.png" width="200"/> | <img src="screenshots/plant_cards.png" width="200"/> | <img src="screenshots/animations.png" width="200"/> |
+| Shopping Cart | Checkout Process | Order Confirmation |
+|---------------|------------------|-------------------|
+| <img src="flutter_application_1/lib/screenshots/cart.png" width="200"/> | 
 
 
 ## 🚀 Getting Started
