@@ -48,7 +48,7 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 | <img src="flutter_application_1/lib/screenshots/Plant-Store.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/category-page.png" width="200"/> | <img src="flutter_application_1/lib/screenshots/plant-detail.png" width="200"/> |
 
 ### Shopping Experience
-| Shopping Cart | Checkout Process | Order Confirmation |
+| Shopping Cart |
 |---------------|
 | <img src="flutter_application_1/lib/screenshots/cart.png" width="200"/> | 
 
