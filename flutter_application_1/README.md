@@ -45,14 +45,17 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Main Screens
 | Home Screen | Category View | Plant Details |
 |-------------|---------------|---------------|
-| ![Home Screen](lib/screenshots/Plant-Store.png) | ![Category View](lib/screenshots/category-page.png) | ![Plant Details](lib/screenshots/plant-detail.png) |
+| <img src="screenshots/home_screen.png" width="200"/> | <img src="screenshots/category_view.png" width="200"/> | <img src="screenshots/plant_details.png" width="200"/> |
 
 ### Shopping Experience
-| Shopping Cart |
-|---------------|
-| ![Shopping Cart](lib/screenshots/cart.png) 
+| Shopping Cart | Checkout Process | Order Confirmation |
+|---------------|------------------|-------------------|
+| <img src="screenshots/cart_screen.png" width="200"/> | <img src="screenshots/checkout_screen.png" width="200"/> | <img src="screenshots/order_confirmation.png" width="200"/> |
 
-
+### Features Showcase
+| Category Filtering | Plant Cards | Animations |
+|-------------------|-------------|------------|
+| <img src="screenshots/category_filtering.png" width="200"/> | <img src="screenshots/plant_cards.png" width="200"/> | <img src="screenshots/animations.png" width="200"/> |
 
 > Note: To add screenshots to your README:
 > 1. Take screenshots of your app using the device simulator or a physical device
@@ -71,12 +74,12 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Timothy-itayi/Plantmart
+git clone https://github.com/yourusername/plant-store.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd flutter_application_1
+cd plant-store
 ```
 
 3. Install dependencies:
@@ -107,6 +110,8 @@ flutter run
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 - Timothy Itayi - Initial work
