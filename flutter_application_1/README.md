@@ -45,17 +45,14 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Main Screens
 | Home Screen | Category View | Plant Details |
 |-------------|---------------|---------------|
-| ![Home Screen](screenshots/home_screen.png) | ![Category View](screenshots/category_view.png) | ![Plant Details](screenshots/plant_details.png) |
+| ![Home Screen](lib/screenshots/Plant-Store.png) | ![Category View](lib/screenshots/category-page.png) | ![Plant Details](lib/screenshots/plant-detail.png) |
 
 ### Shopping Experience
-| Shopping Cart | Checkout Process | Order Confirmation |
-|---------------|------------------|-------------------|
-| ![Shopping Cart](screenshots/cart_screen.png) | ![Checkout](screenshots/checkout_screen.png) | ![Order Confirmation](screenshots/order_confirmation.png) |
+| Shopping Cart |
+|---------------|
+| ![Shopping Cart](lib/screenshots/cart.png) 
 
-### Features Showcase
-| Category Filtering | Plant Cards | Animations |
-|-------------------|-------------|------------|
-| ![Category Filtering](screenshots/category_filtering.png) | ![Plant Cards](screenshots/plant_cards.png) | ![Animations](screenshots/animations.png) |
+
 
 > Note: To add screenshots to your README:
 > 1. Take screenshots of your app using the device simulator or a physical device
@@ -74,12 +71,12 @@ A beautiful and modern Flutter application for a plant store, focusing on an ele
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/plant-store.git
+git clone https://github.com/Timothy-itayi/Plantmart
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd plant-store
+cd flutter_application_1
 ```
 
 3. Install dependencies:
@@ -110,8 +107,6 @@ flutter run
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 - Timothy Itayi - Initial work
