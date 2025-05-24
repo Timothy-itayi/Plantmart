@@ -113,12 +113,12 @@ class PlantDetailsScreen extends StatelessWidget {
                   Text(
                     plant.description,
                     style: const TextStyle(
-                      fontSize: 16,
+                      fontSize: 15,
                       height: 1.5,
                       color: Colors.black87,
                     ),
                   ),
-                  const SizedBox(height: 32),
+                  const SizedBox(height: 40),
                   SizedBox(
                     width: double.infinity,
                     height: 56,

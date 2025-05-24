@@ -26,15 +26,31 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (ctx) => CartProvider(),
       child: MaterialApp(
-        title: 'Plant Store',
+        title: 'Plant Barn',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(
-            seedColor: Colors.green,
+            seedColor: const Color(0xFF2E7D32), // Deep forest green
+            primary: const Color(0xFF2E7D32),
+            secondary: const Color(0xFF81C784), // Light green
+            tertiary: const Color(0xFF4CAF50), // Medium green
+             // Very light green
             brightness: Brightness.light,
           ),
           useMaterial3: true,
-          scaffoldBackgroundColor: Colors.white,
+          scaffoldBackgroundColor: const Color(0xFFF1F8E9),
+          appBarTheme: const AppBarTheme(
+            backgroundColor: Colors.white,
+            elevation: 0,
+            iconTheme: IconThemeData(color: Color(0xFF2E7D32)),
+          ),
+          cardTheme: CardTheme(
+            elevation: 0,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(16),
+            ),
+            color: Colors.white,
+          ),
         ),
         home: const PlantStoreScreen(),
       ),

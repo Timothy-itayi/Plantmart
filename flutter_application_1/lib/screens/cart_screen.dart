@@ -114,7 +114,7 @@ class CartScreen extends StatelessWidget {
                 ),
               ),
               Container(
-                padding: const EdgeInsets.all(16),
+                padding: const EdgeInsets.all(40),
                 decoration: BoxDecoration(
                   color: Colors.white,
                   boxShadow: [
@@ -142,7 +142,7 @@ class CartScreen extends StatelessWidget {
                           style: GoogleFonts.playfairDisplay(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,
-                            color: Colors.green[700],
+                            color: const Color.fromARGB(255, 32, 86, 40),
                           ),
                         ),
                       ],
