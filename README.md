@@ -1,4 +1,4 @@
-# PLAnt Barn - Flutter Application
+# PlantMart - Flutter Application
 
 A beautiful and modern Flutter application for a plant store, focusing on an elegant user interface and smooth user experience.
 
